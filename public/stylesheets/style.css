@@ -1,0 +1,17 @@
+svg {
+  width: 100%;
+  height: 300px;
+}
+
+rect {
+  fill: CornflowerBlue;
+  cursor: help;
+}
+
+rect:hover {
+  fill: RoyalBlue;
+}
+
+.domain {
+  fill: none;
+}
