@@ -10,6 +10,12 @@ Files we looked at
 * [style.css](https://github.com/danrashid/d3/blob/master/public/stylesheets/style.css)
 * [index.jade](https://github.com/danrashid/d3/blob/master/views/index.jade)
 
+See also
+--------
+
+[ddd](https://github.com/danrashid/ddd)
+*A d3 bar chart that resizes with the window*
+
 Bookmarks
 ---------
 
