@@ -34,8 +34,10 @@ Listed beginner-to-advanced
 If you want to try to run this thing
 ------------------------------------
 
-* Install git and node
-* `git clone https://github.com/danrashid/d3.git`
-* `cd d3 && npm install`
-* `DEBUG=d3 ./bin/www`
-* [Visit http://localhost:3000/](http://localhost:3000/)
+Install git and node
+```bash
+git clone https://github.com/danrashid/d3.git
+cd d3 && npm install
+npm start
+```
+[Visit http://localhost:3000/](http://localhost:3000/)
